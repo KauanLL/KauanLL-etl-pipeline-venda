@@ -1,0 +1,31 @@
+id_venda,produto,valor,data
+1,Romance Clássico,59.9,2025-03-01
+2,Ficção Científica (Capa Dura),89.0,2025-03-02
+3,Biografia de Artista,75.5,2025-03-03
+4,Livro de Receitas Gourmet,99.9,2025-03-04
+5,Fantasia Épica Vol. 1,65.9,2025-03-05
+6,HQ Nacional Edição Especial,49.0,2025-03-06
+7,Autoajuda para Produtividade,42.9,2025-03-07
+8,Livro Infantil Ilustrado,35.0,2025-03-08
+9,Suspense Policial Bestseller,55.0,2025-03-09
+10,Manual de Programação Python,129.0,2025-03-10
+11,Poesia Contemporânea,39.9,2025-03-11
+12,Mangá Volume 1,29.9,2025-03-12
+13,Não-Ficção Histórica,79.0,2025-03-13
+14,Terror Psicológico,52.0,2025-03-14
+15,Atlas Geográfico Completo,150.0,2025-03-15
+16,Dicionário de Inglês,45.0,2025-03-16
+17,Livro de Colorir Anti-Stress,25.0,2025-03-17
+18,Aventura Juvenil,48.0,2025-03-18
+19,Ensaios Filosóficos,69.9,2025-03-19
+20,Revista Especializada em Arte,32.0,2025-03-20
+21,Gramática Portuguesa Atualizada,59.0,2025-03-21
+22,Ebook Reader (Dispositivo),499.0,2025-03-22
+23,Marcador de Página Temático,15.0,2025-03-23
+24,Conjunto de Canetas para Sublinhar,29.9,2025-03-24
+25,Caixa de Livros (Trilogia),189.0,2025-03-25
+26,Livro de Arte (Capa Dura Grande),250.0,2025-03-26
+27,Drama Moderno,58.0,2025-03-27
+28,Livro de Preparação para Concurso,110.0,2025-03-28
+29,Novela Gráfica,72.5,2025-03-29
+30,Livro sobre Investimentos,85.0,2025-03-30

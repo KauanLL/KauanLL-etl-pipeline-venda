@@ -1,0 +1,31 @@
+id_venda,produto,valor,data
+1,Smartphone Pro,2599.0,2025-01-01
+2,Notebook Ultrafino,3899.0,2025-01-02
+3,Fone de Ouvido Sem Fio,450.0,2025-01-03
+4,Smartwatch X,799.0,2025-01-04
+5,Tablet 10 polegadas,1299.0,2025-01-05
+6,Console de Videogame,3500.0,2025-01-06
+7,Câmera de Ação 4K,1150.0,2025-01-07
+8,Caixa de Som Bluetooth,320.0,2025-01-08
+9,Mouse Gamer RGB,150.0,2025-01-09
+10,Teclado Mecânico,480.0,2025-01-10
+11,Monitor Curvo 27",1699.0,2025-01-11
+12,Roteador Wi-Fi 6,290.0,2025-01-12
+13,Pendrive 64GB,55.0,2025-01-13
+14,Carregador Portátil 10000mAh,130.0,2025-01-14
+15,Controle Remoto Universal,75.0,2025-01-15
+16,Webcam Full HD,180.0,2025-01-16
+17,Cartão de Memória 128GB,95.0,2025-01-17
+18,Microfone Condensador,410.0,2025-01-18
+19,Impressora Multifuncional,699.0,2025-01-19
+20,Aspirador Robô Inteligente,1599.0,2025-01-20
+21,Cabo USB-C,45.0,2025-01-21
+22,Dock Station USB,210.0,2025-01-22
+23,Headset Gamer,399.0,2025-01-23
+24,Adaptador HDMI,65.0,2025-01-24
+25,Lâmpada Inteligente RGB,85.0,2025-01-25
+26,Projetor Portátil,1999.0,2025-01-26
+27,Drone Iniciante,950.0,2025-01-27
+28,Kindle Paperwhite,599.0,2025-01-28
+29,Óculos VR (Realidade Virtual),1350.0,2025-01-29
+30,Hub USB 3.0,89.0,2025-01-30
